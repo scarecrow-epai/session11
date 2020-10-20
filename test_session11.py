@@ -7,7 +7,7 @@ import subprocess
 
 import session11
 
-README_CONTENT_CHECK_FOR = ["img_resize", "jpg_to_png", "png_to_jpg"]
+README_CONTENT_CHECK_FOR = ["img_resize", "png2jpg", "jpg2png"]
 
 
 def test_readme_exists():
